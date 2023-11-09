@@ -1,0 +1,2125 @@
+<PeriodicElements>
+  <Element Name="Hydrogen" ShortName="H">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "1"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "1s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "120 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "31±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "72.769"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.20"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "1.008"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-259.16°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-434.49°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "13.99 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-252.879°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-423.182°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "20.271 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "0.000082"/>
+  </Element>
+
+  <Element Name="Helium" ShortName="He">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "2"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "1s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "140 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "28 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not Stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "4.003"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-272.20°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-457.96°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "0.95 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-268.928°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-452.07°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4.222 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "0.1786"/>
+  </Element>
+
+  <Element Name="Lithium" ShortName="Li">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "3"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[He] 2s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "152 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "128±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "59.633"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "0.98"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "6.94"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "180.50°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "356.90°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "453.65 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1330°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "2426°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1603 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "0.534"/>
+  </Element>
+
+  <Element Name="Beryllium" ShortName="Be">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "4"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[He] 2s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "112 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "96±3 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not Stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.57"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "9.012"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1287°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2349°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1560 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2469°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "4476°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2742 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "1.85"/>
+  </Element>
+
+  <Element Name="Boron" ShortName="B">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "5"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[He] 2s[sup]2[/sup]2p[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "90 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "84±3 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "26.989"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.04"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "10.81"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "2076°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3768°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2349 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3927°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "7101°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4200 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "2.08"/>
+  </Element>
+
+  <Element Name="Carbon" ShortName="C">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "6"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[He] 2s[sup]2[/sup]2p[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "170 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "77 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "121.776"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.55"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "12.011"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "3825°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "6917°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "4098 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3825°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "6917°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4098 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "3.515 (diamond); 2.267 (graphite)"/>
+  </Element>
+
+  <Element Name="Nitrogen" ShortName="N">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "7"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[He] 2s[sup]2[/sup]2p[sup]3[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "155 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "71±1 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not Stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "3.04"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "14.007"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-210.0°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-346.0°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "63.15 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-195.795°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-320.431°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "77.355 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "1.2506"/>
+  </Element>
+
+  <Element Name="Oxygen" ShortName="O">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "8"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[He] 2s[sup]2[/sup]2p[sup]4[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "152 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "66±2 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "140.976"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "3.44"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "15.999"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-218.79°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-361.82°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "54.36 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-182.962°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-297.332°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "90.188 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "1.429"/>
+  </Element>
+
+  <Element Name="Fluorine" ShortName="F">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "9"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[He] 2s[sup]2[/sup]2p[sup]5[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "135 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "64 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "328.165"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "3.98"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "18.998"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-219.67°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-363.41°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "53.48 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-188.11°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-306.6°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "85.03 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "1.696"/>
+  </Element>
+
+  <Element Name="Neon" ShortName="Ne">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "10"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[He] 2s[sup]2[/sup]2p[sup]6[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "154 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "58 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not Stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "20.180"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-248.59°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-415.46°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "24.56 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-246.046°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-410.883°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "27.104 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "0.9002"/>
+  </Element>
+
+  <Element Name="Sodium" ShortName="Na">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "11"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ne] 3s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "186 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "166±9 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "52.867"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "0.93"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "22.990"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "97.794°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "208.029°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "370.944 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "882.940°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1621.292°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1156.090 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "0.968"/>
+  </Element>
+
+  <Element Name="Magnesium" ShortName="Mg">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "12"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ne] 3s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "160 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "141±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not Stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.31"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "24.305"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "650°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1202°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "923 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1091°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1994°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1363 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "1.738"/>
+  </Element>
+
+  <Element Name="Aluminium" ShortName="Al">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "13"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ne] 3s[sup]2[/sup]3p[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "143 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "121±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "41.762"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.61"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "26.982"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "660.323°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1220.581°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "933.473 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2519°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "4566°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2792 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "2.70"/>
+  </Element>
+
+  <Element Name="Silicon" ShortName="Si">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "14"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ne] 3s[sup]2[/sup]3p[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "111 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "111 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "134.068"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.90"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "28.085"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1414°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2577°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1687 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3265°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5909°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3538 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "2.3296"/>
+  </Element>
+
+  <Element Name="Phosphorus" ShortName="P">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "15"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ne] 3s[sup]2[/sup]3p[sup]3[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "180 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "107±3 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "72.037"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.19"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "30.974"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "44.15°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "111.47°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "317.3 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "280.5°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "536.9°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "553.7 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "1.823 (white)"/>
+  </Element>
+
+  <Element Name="Sulfur" ShortName="S">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "16"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ne] 3s[sup]2[/sup]3p[sup]4[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "180 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "105±3 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "200.41"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.58"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "32.06"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "115.21°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "239.38°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "388.36 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "444.61°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "832.3°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "717.76 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "2.07"/>
+  </Element>
+
+  <Element Name="Chlorine" ShortName="Cl">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "17"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ne] 3s[sup]2[/sup]3p[sup]5[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "175 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "102±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "348.575"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "3.16"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "35.45"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-101.5°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-150.7°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "171.7 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-34.04°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-29.27°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "239.11 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "0.002898"/>
+  </Element>
+
+  <Element Name="Argon" ShortName="Ar">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "18"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ne] 3s[sup]2[/sup]3p[sup]6[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "188 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "106±10 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not Stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "39.948"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-189.34°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-308.81°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "83.81 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-185.848°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-302.526°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "87.302 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "0.001633"/>
+  </Element>
+
+  <Element Name="Potassium" ShortName="K">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "19"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 4s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "227 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "203±12 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "48.385"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "0.82"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "39.098"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "63.5°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "146.3°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "336.7 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "759°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1398°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1032 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "0.89"/>
+  </Element>
+
+  <Element Name="Calcium" ShortName="Ca">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "20"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 4s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "197 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "176±10 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "2.369"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.00"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "40.078"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "842°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1548°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1115 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1484°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "2703°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1757 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "1.54"/>
+  </Element>
+
+  <Element Name="Scandium" ShortName="Sc">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "21"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]1[/sup]4s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "162 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "170±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "18.139"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.36"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "44.956"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1541°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2806°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1814 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2836°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5137°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3109 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "2.99"/>
+  </Element>
+
+  <Element Name="Titanium" ShortName="Ti">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "22"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]2[/sup]4s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "147 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "160±8 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "7.622"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.36"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "47.867"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1670°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3038°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1943 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3287°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5949°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3560 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "4.506"/>
+  </Element>
+
+  <Element Name="Vanadium" ShortName="V">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "23"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]3[/sup]4s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "134 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "153±8 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "50.655"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.63"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "50.942"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1910°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3470°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2183 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3407°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "6165°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3680 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "6"/>
+  </Element>
+
+  <Element Name="Chromium" ShortName="Cr">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "24"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]5[/sup]4s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "128 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "139±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "64.259"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.66"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "51.996"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1907°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3465°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2180 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2671°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "4840°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2944 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.15"/>
+  </Element>
+
+  <Element Name="Manganese" ShortName="Mn">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "25"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]5[/sup]4s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "127 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "139±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.55"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "54.938"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1246°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2275°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1519 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2061°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "3742°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2334 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.3"/>
+  </Element>
+
+  <Element Name="Iron" ShortName="Fe">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "26"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]6[/sup]4s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "126 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "132±3 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "14.569"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.83"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "55.845"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1538°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2800°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1811 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2861°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5182°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3134 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.87"/>
+  </Element>
+
+  <Element Name="Cobalt" ShortName="Co">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "27"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]7[/sup]4s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "124±4 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "126±3 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "63.873"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.88"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "58.933"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1495°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2723°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1768 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2927°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5301°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3200 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "8.86"/>
+  </Element>
+
+  <Element Name="Nickel" ShortName="Ni">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "28"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]8[/sup]4s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "124 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "124±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "111.537"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.91"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "58.693"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1455°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2651°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1728 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2913°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5275°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3186 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "8.9"/>
+  </Element>
+
+  <Element Name="Copper" ShortName="Cu">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "29"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]10[/sup]4s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "128 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "128 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "119.159"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.9"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "63.546"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1084.62°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1984.32°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1357.77 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2560°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "4640°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2833 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "8.96"/>
+  </Element>
+
+  <Element Name="Zink" ShortName="Zn">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "30"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]10[/sup]4s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "134 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "122±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.65"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "65.38"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "419.527°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "787.149°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "692.677 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "907°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1665°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1180 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.134"/>
+  </Element>
+
+  <Element Name="Gallium" ShortName="Ga">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "31"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]10[/sup]4s[sup]2[/sup]4p[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "	122 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "122 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "41.49"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.81"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "69.723"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "29.7646°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "85.5763°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "302.9146 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2229°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "4044°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2502 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "5.91"/>
+  </Element>
+
+  <Element Name="Germanium" ShortName="Ge">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "32"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]10[/sup]4s[sup]2[/sup]4p[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "122 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "122 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "118.939"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.01"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "72.63"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "938.25°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1720.85°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1211.4 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2833°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5131°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3106 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "5.3234"/>
+  </Element>
+
+  <Element Name="Arsenic" ShortName="As">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "33"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]10[/sup]4s[sup]2[/sup]4p[sup]3[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "119 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "119±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "77.574"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.18"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "74.922"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "616°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1141°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "889 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "616°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1141°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "616°C"/>
+    <PhysicalProperties Key = "Density"	Propertie = "5.75"/>
+  </Element>
+
+  <Element Name="Selenium" ShortName="Se">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "34"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]10[/sup]4s[sup]2[/sup]4p[sup]4[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "120 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "120±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "194.965"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.55"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "78.971"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "220.8°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "429.4°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "494 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "685°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1265°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "958 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "4.809"/>
+  </Element>
+
+  <Element Name="Bromine" ShortName="Br">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "35"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]10[/sup]4s[sup]2[/sup]4p[sup]5[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "120 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "120±3 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "324.537"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.96"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "79.904"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Liquid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-7.2°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "19°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "266 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "58.8°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "137.8°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "332 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "3.1028"/>
+  </Element>
+
+  <Element Name="Krypton" ShortName="Kr">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "36"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Ar] 3d[sup]10[/sup]4s[sup]2[/sup]4p[sup]6[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "202 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "116±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "3.00"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "83.798"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-157.37°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-251.27°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "115.78 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-153.415°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-244.147°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "119.735 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "0.003425"/>
+  </Element>
+
+  <Element Name="Rubidium" ShortName="Rb">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "37"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 5s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "248 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "220±9 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "46.884"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "0.82"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "85.468"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "39.30°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "102.74°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "312.45 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "688°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1270°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "961 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "1.53"/>
+  </Element>
+
+  <Element Name="Strontium" ShortName="Sr">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "38"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 5s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "215 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "195±10 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "4.631"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "0.95"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "87.62"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "777°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1431°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1050 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1377°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "2511°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1650 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "2.64"/>
+  </Element>
+
+  <Element Name="Yttrium" ShortName="Y">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "39"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]1[/sup]5s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "180 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "190±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "29.621"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.22"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "88.906"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1522°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2772°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1795 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3345°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "6053°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3618 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "4.47"/>
+  </Element>
+
+  <Element Name="Zirconium" ShortName="Zr">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "40"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]2[/sup]5s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "160 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "175±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "41.103"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.33"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "91.224"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1855°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3371°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2128 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4377°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "7911°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4650 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "6.52"/>
+  </Element>
+
+  <Element Name="Niobium" ShortName="Nb">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "41"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]4[/sup]5s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "146 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "164±6 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "88.381"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.6"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "92.906"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "2477°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "4491°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2750 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4744°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "8571°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "5017 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "8.57"/>
+  </Element>
+
+  <Element Name="Molybdenum" ShortName="Mo">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "42"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]5[/sup]5s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "139 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "154±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "72.171"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.16"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "95.95"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "2623°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "4753°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2896 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4639°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "8382°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4912 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "10.28"/>
+  </Element>
+
+  <Element Name="Technetium" ShortName="Tc">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "43"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]5[/sup]5s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "136 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "147±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "53.07"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.9"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[98]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "2157°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3915°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2430 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4265°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "7709°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4538 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "11"/>
+  </Element>
+
+  <Element Name="Ruthenium" ShortName="Ru">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "44"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]7[/sup]5s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "134 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "146±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "101.31"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.2"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "101.07"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "2334°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "4233°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2607 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4150°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "7502°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4423 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "12.45"/>
+  </Element>
+
+  <Element Name="Rhodium" ShortName="Rh">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "45"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]8[/sup]5s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "134 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "142±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "109.704"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.28"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "102.906"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1964°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3567°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2237 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3695°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "6683°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3968 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "12.41"/>
+  </Element>
+
+  <Element Name="Palladium" ShortName="Pd">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "46"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]10[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "137 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "139±6 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "54.225"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.20"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "106.42"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1554.9°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2830.82°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1828.05 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2963°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5365°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3236 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "12.023"/>
+  </Element>
+
+  <Element Name="Silver" ShortName="Ag">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "47"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]10[/sup]5s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "144 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "145±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "125.624"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.93"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "107.868"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "961.78°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1763.2°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1234.93 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2162°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "3924°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2435 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "10.49"/>
+  </Element>
+
+  <Element Name="Cadmium" ShortName="Cd">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "48"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]10[/sup]5s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "151 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "144±9 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.69"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "112.414"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "321.07°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "609.93°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "594.22 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "767°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1413°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1040 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "8.65"/>
+  </Element>
+
+  <Element Name="Indium" ShortName="In">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "49"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]10[/sup]5s[sup]2[/sup]5p[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "167 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "142±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "28.9"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.78"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "114.818"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "156.5985°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "313.8773°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "429.7485 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2072°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "3762°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2345 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.31"/>
+  </Element>
+
+  <Element Name="Tin" ShortName="Sn">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "50"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]10[/sup]5s[sup]2[/sup]5p[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "140 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "139±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "107.298"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.96"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "118.71"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "231.93°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "449.47°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "505.08 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2602°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "4716°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2875 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.265"/>
+  </Element>
+
+  <Element Name="Antimony" ShortName="Sb">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "51"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]10[/sup]5s[sup]2[/sup]5p[sup]3[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "140 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "139±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "100.924"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.05"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "121.76"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "630.63°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1167.13°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "903.78 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1635°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "2975°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1908 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "6.697"/>
+  </Element>
+
+  <Element Name="Tellurium" ShortName="Te">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "52"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]10[/sup]5s[sup]2[/sup]5p[sup]4[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "140 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "138±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "190.161"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.1"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "127.6"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "449.51°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "841.12°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "722.66 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "988°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1810°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1261 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "6.24"/>
+  </Element>
+
+  <Element Name="Iodine" ShortName="I">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "53"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]10[/sup]5s[sup]2[/sup]5p[sup]5[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "140 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "139±3 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "295.152"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.66"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "126.904"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "113.7°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "236.66°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "386.85 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "184.3°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "363.7°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "457.4 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "4.933"/>
+  </Element>
+
+  <Element Name="Xenon" ShortName="Xe">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "54"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Kr] 4d[sup]10[/sup]5s[sup]2[/sup]5p[sup]6[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "216 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "140±9 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "1.36"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.6"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "131.293"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-111.75°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-169.15°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "161.4 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-108.099°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-162.578°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "165.051 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "5.894"/>
+  </Element>
+
+  <Element Name="Cesium" ShortName="Cs">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "55"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 6s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "265 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "244±11 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "45.505"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "0.79"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "132.905"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "28.5°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "83.3°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "301.7 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "671°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1240°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "944 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "1.93"/>
+  </Element>
+
+  <Element Name="Barium" ShortName="Ba">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "56"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "222 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "215±11 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "13.954"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "0.89"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "137.327"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "727°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1341°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1000 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1845°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "3353°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2118 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "3.51"/>
+  </Element>
+
+  <Element Name="Lanthanum" ShortName="La">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "57"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 5d[sup]1[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "187 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "207±8 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "45.35"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.10"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "138.905"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "920°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1688°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1193 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3464°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "6267°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3737 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "6.162"/>
+  </Element>
+
+  <Element Name="Cerium" ShortName="Ce">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "58"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]1[/sup]5d[sup]1[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "181.8 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "204±9 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "62.72"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.12"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "140.116"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "795°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1463°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1068 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3443°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "6229°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3716 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "6.770"/>
+  </Element>
+
+  <Element Name="Praseodymium" ShortName="Pr">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "59"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]3[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "182 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "203±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "92.819"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.13"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "140.908"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "935°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1715°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1208 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3130°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5666°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3403 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "6.77"/>
+  </Element>
+
+  <Element Name="Neodymium" ShortName="Nd">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "60"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]4[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "181 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "201±6 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.14"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "144.242"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1024°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1875°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1297 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3074°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5565°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3347 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.01"/>
+  </Element>
+
+  <Element Name="Promethium" ShortName="Pm">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "61"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]5[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "183 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "199 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.13"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[145]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1042°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1908°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1315 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3000°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5432°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3273 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.26"/>
+  </Element>
+
+  <Element Name="Samarium" ShortName="Sm">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "62"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]6[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "180 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "198±8 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.17"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "150.36"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1072°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1962°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1345 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1900°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "3452°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2173 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.52"/>
+  </Element>
+
+  <Element Name="Europium" ShortName="Eu">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "63"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]7[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "180 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "198±6 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "83.363"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.2"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "151.964"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "826°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1519°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1099 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1529°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "2784°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1802 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "5.264"/>
+  </Element>
+
+  <Element Name="Gadolinium" ShortName="Gd">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "64"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]7[/sup]5d[sup]1[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "180 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "196±6 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.20"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "157.25"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1312°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2394°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1585 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "​3000°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5432°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3273 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.90"/>
+  </Element>
+
+  <Element Name="Terbium" ShortName="Tb">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "65"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]9[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "177 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "194±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.2"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "158.925"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1356°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2473°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1629 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3123°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5653°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3396 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "8.23"/>
+  </Element>
+
+  <Element Name="Dysprosium" ShortName="Dy">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "66"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]10[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "178 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "192±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "1.22"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.22"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "162.5"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1407°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2565°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1680 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2562°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "4653°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2840 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "8.540"/>
+  </Element>
+
+  <Element Name="Holmium" ShortName="Ho">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "67"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]11[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "176 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "192±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.23"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "164.93"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1461°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2662°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1734 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2700°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "4892°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2873 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "8.79"/>
+  </Element>
+
+  <Element Name="Erbium" ShortName="Er">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "68"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]12[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "176 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "189±6 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.24"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "167.259"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1529°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2784°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1802 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2868°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5194°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3141 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "9.066"/>
+  </Element>
+
+  <Element Name="Thulium" ShortName="Tm">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "69"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]13[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "176 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "190±10 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "99.283"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.25"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "168.934"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1545°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2813°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1818 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1950°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "3542°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2223 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "9.32"/>
+  </Element>
+
+  <Element Name="Ytterbium" ShortName="Yb">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "70"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "176 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "187±8 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "-1.93"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.1"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "173.045"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "824°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1515°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1097 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1196°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "2185°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1469 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "6.90"/>
+  </Element>
+
+  <Element Name="Lutetium" ShortName="Lu">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "71"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]1[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "174 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "187±8 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "32.81"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.27"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "174.967"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1652°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3006°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1925 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3402°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "6156°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3675 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "9.84"/>
+  </Element>
+
+  <Element Name="Hafnium" ShortName="Hf">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "72"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]2[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "159 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "175±10 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "1.351"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "178.49"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "2233°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "4051°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2506 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4603°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "8317°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4876 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "13.31"/>
+  </Element>
+
+  <Element Name="Tantalum" ShortName="Ta">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "73"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]3[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "146 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "170±8 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "31.068"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.5"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "180.948"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "3017°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "5463°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "3290 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "5458°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "9856°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "5731 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "16.69"/>
+  </Element>
+
+  <Element Name="Tungsten" ShortName="W">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "74"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]4[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "139 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "162±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "78.757"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.36"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "183.84"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "3422°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "6192°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "3695 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "5930°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "10706°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "6203 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "19.3"/>
+  </Element>
+
+  <Element Name="Rhenium" ShortName="Re">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "75"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]5[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "137 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "151±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "14.47"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.9"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "186.207"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "3186°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "5767°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "3459 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "5630°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "10170°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "5903 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "21.02"/>
+  </Element>
+
+  <Element Name="Osmium" ShortName="Os">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "76"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]6[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "135 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "144±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "106.1"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.2"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "190.23"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "3033°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "5491°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "3306 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "5012°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "9054°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "5285 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "22.59"/>
+  </Element>
+
+  <Element Name="Iridium" ShortName="Ir">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "77"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]7[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "136 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "141±6 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "150.884"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.20"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "192.217"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "2446°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "4435°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2719 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4130°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "7466°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4403 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "22.56"/>
+  </Element>
+
+  <Element Name="Platinum" ShortName="Pt">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "78"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]9[/sup]6s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "139 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "136±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "205.321"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.28"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "195.084"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1768.3°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3214.9°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2041.4 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3825°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "6917°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4098 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "21.45"/>
+  </Element>
+
+  <Element Name="Gold" ShortName="Au">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "79"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]10[/sup]6s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "144 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "136±6 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "222.749"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.54"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "196.967"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1064.18°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1947.52°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1337.33 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2970°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5378°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3243 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "19.30"/>
+  </Element>
+
+  <Element Name="Mercury" ShortName="Hg">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "80"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]10[/sup]6s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "151 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "132±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.00"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "200.592"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Liquid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-38.8290°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-37.8922°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "234.3210 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "356.73°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "674.11°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "629.88 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "13.534"/>
+  </Element>
+
+  <Element Name="Thallium" ShortName="Tl">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "81"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]10[/sup]6s[sup]2[/sup]6p[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "170 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "145±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "36.375"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.62"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "204.38"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "304°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "579°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "577 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1473°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "2683°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1746 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "11.85"/>
+  </Element>
+
+  <Element Name="Lead" ShortName="Pb">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "82"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]10[/sup]6s[sup]2[/sup]6p[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "175 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "146±5 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "35.121"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.8"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "207.2"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "327.46°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "621.43°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "600.61 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1749°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "3180°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2022 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "11.34"/>
+  </Element>
+
+  <Element Name="Bismuth" ShortName="Bi">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "83"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]10[/sup]6s[sup]2[/sup]6p[sup]3[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "156 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "148±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "90.924"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.02"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "208.98"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "271.5°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "520.7°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "544.7 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1564°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "2847°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1837 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "9.78"/>
+  </Element>
+
+  <Element Name="Polonium" ShortName="Po">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "84"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]10[/sup]6s[sup]2[/sup]6p[sup]4[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "197 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "140±4 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "183.3"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.0"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[209]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "254°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "489°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "527 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "962°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1764°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1235 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "9.196"/>
+  </Element>
+
+  <Element Name="Astatine" ShortName="At">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "85"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]10[/sup]6s[sup]2[/sup]6p[sup]5[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "202 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "150 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "270.2"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.2"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[210]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "300°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "572°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "573 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "230±3°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "445±5°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "503±3 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "6.35±0.15"/>
+  </Element>
+
+  <Element Name="Radon" ShortName="Rn">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "86"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Xe] 4f[sup]14[/sup]5d[sup]10[/sup]6s[sup]2[/sup]6p[sup]6[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.2"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "150 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Not stable"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.2"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[222]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Gas"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "-71°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "-96°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "202 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "-61.7°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "-79.1°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "211.5 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "9.73"/>
+  </Element>
+
+  <Element Name="Francium" ShortName="Fr">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "87"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 7s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "3.48"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "260 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "44.38"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "0.79"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[223]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "8.0°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "46.4°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "281.0 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "620°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1150°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "890 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "2.48"/>
+  </Element>
+
+  <Element Name="Radium" ShortName="Ra">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "88"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.83"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "221±2 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "9.65"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "0.9"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[226]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "700°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1292°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "973 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1737°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "3159°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2010 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "5.5"/>
+  </Element>
+
+  <Element Name="Actinium" ShortName="Ac">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "89"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 6d[sup]1[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.47"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "2.01"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "33.77"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.1"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[227]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1227°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2240°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1500 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3200±300°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5800±500°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3500±300 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "10"/>
+  </Element>
+
+  <Element Name="Thorium" ShortName="Th">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "90"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 6d[sup]2[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.45"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.9"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "232.038"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1750°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3182°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2023 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4788°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "8650°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "5061 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "11.7"/>
+  </Element>
+
+  <Element Name="Protactinium" ShortName="Pa">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "91"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]2[/sup]6d[sup]1[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "163 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "200 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.5"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "231.036"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1568°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2854°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1841 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4027°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "7280°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4300 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "15.37"/>
+  </Element>
+
+  <Element Name="Uranium" ShortName="U">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "92"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]3[/sup]6d[sup]1[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "156 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "196±7 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.38"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "238.029"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1132.2°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2070°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1405.3 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4131°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "7468°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4404 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "19.1"/>
+  </Element>
+
+  <Element Name="Neptunium" ShortName="Np">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "93"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]4[/sup]6d[sup]1[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.39"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.8"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.36"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[237]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "639±3°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1182±5°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "912±3 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "4174°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "7545°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "4447 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "19.38"/>
+  </Element>
+
+  <Element Name="Plutonium" ShortName="Pu">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "94"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]6[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.43"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.8"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.28"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[244]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "639.4°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1182.9°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "912.5 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3228°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5842°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3505 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "19.816"/>
+  </Element>
+
+  <Element Name="Americium" ShortName="Am">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "95"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]7[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.44"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.73"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[243]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1176°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2149°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1449 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2607°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "4725°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2880 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "12"/>
+  </Element>
+
+  <Element Name="Curium" ShortName="Cm">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "96"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]7[/sup]6d[sup]1[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.45"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.68"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[247]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1340°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2444°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1613 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "3110°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "5630°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "3383 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "13.51"/>
+  </Element>
+
+  <Element Name="Berkelium" ShortName="Bk">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "97"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]9[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "170 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.68"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[247]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "986°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1807°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1259 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "2627°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "4760°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "2900 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "14.78"/>
+  </Element>
+
+  <Element Name="Californium" ShortName="Cf">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "98"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]10[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.45"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.68"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[251]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "900°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1652°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1173 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1470°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "2678°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1743 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "15.1"/>
+  </Element>
+
+  <Element Name="Einsteinium" ShortName="Es">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "99"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]11[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.45"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.65"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[252]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "860°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1580°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1133 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "996°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1825°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1269 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "8.84"/>
+  </Element>
+
+  <Element Name="Fermium" ShortName="Fm">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "100"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]12[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.45"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.67"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[257]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1527°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2781°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1800 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "9.7(1)"/>
+  </Element>
+
+  <Element Name="Mendelivium" ShortName="Md">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "101"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]13[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.46"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.73"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[258]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "827°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1521°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1100 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "10.3(7)"/>
+  </Element>
+
+  <Element Name="Nobelium" ShortName="No">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "102"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.46"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.76"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[259]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "827°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "1521°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1100 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "9.9(4)"/>
+  </Element>
+
+  <Element Name="Lawrencium" ShortName="Lr">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "103"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]7s[sup]2[/sup]7p[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "2.46"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.61"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "1.3"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[262]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "1627°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "2961°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "1900 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "~15.6–16.6"/>
+  </Element>
+
+  <Element Name="Rutherfordium" ShortName="Rf">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "104"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]2[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "150 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "157 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[267]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "2100°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "3800°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "2400 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "5500°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "9900°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "5800 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "23.2"/>
+  </Element>
+
+  <Element Name="Dubnium" ShortName="Db">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "105"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]3[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "139 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "149 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[268]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "29.3"/>
+  </Element>
+
+  <Element Name="Seaborgium" ShortName="Sg">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "106"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]4[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.43"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[269]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "35.0"/>
+  </Element>
+
+  <Element Name="Bohrium" ShortName="Bh">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "107"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]5[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "128 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "141 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[270]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "37.1"/>
+  </Element>
+
+  <Element Name="Hassium" ShortName="Hs">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "108"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]6[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "126 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "134 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[269]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "41"/>
+  </Element>
+
+  <Element Name="Meitnerium" ShortName="Mt">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "109"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]7[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "128 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "129 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[278]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "37.4"/>
+  </Element>
+
+  <Element Name="Darmstadtium" ShortName="Ds">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "110"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]9[/sup]7s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "1.28"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[281]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "34.8"/>
+  </Element>
+
+  <Element Name="Roentgenium" ShortName="Rg">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "111"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]10[/sup]7s[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "138 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "121 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[280]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "Density"	Propertie = "28.7"/>
+  </Element>
+
+  <Element Name="Copernicium" ShortName="Cn">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "112"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]10[/sup]7s[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "147 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "122 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[285]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "84±100°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "183±100°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "357±100 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "23.7"/>
+  </Element>
+
+  <Element Name="Ununtrium" ShortName="Uut">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "113"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]10[/sup]7s[sup]2[/sup]7p[sup]1[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "170 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "172–180 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "0.68"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[286]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "430°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "810°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "700 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "1130°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "2070°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1430 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "16"/>
+  </Element>
+
+  <Element Name="Flerovium" ShortName="Fl">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "114"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]10[/sup]7s[sup]2[/sup]7p[sup]2[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "180 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "171–177 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "2.33"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[289]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "Unknown"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "~ -60°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "~ -80°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "~ 210 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "14"/>
+  </Element>
+
+  <Element Name="Ununpentium" ShortName="Uup">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "115"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]10[/sup]7s[sup]2[/sup]7p[sup]3[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "187 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "156–158 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[289]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "400°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "750°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "670 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "~1100°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "​~2000°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "~1400 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "13.5"/>
+  </Element>
+
+  <Element Name="Livermorium" ShortName="Lv">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "116"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]10[/sup]7s[sup]2[/sup]7p[sup]4[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "183 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "162–166 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[293]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "364–507°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "687–944°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "637–780 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "762–862°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1403–1583°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "1035–1135 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "12.9"/>
+  </Element>
+
+  <Element Name="Ununseptium" ShortName="Uus">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "117"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]10[/sup]7s[sup]2[/sup]7p[sup]5[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "138 pm"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "156–157 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[294]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "350–550°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "​662–1022°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "623–823 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "610°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "1130°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "883 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "7.1–7.3"/>
+  </Element>
+
+  <Element Name="Ununoctium" ShortName="Uuo">
+    <AtomicProperties Key = "AtomicNumber"	Propertie = "118"/>
+    <AtomicProperties Key = "ElectronConfiguration"	Propertie = "[Rn] 5f[sup]14[/sup]6d[sup]10[/sup]7s[sup]2[/sup]7p[sup]6[/sup]"/>
+    <AtomicProperties Key = "AtomicRadius"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "CovalentRadius"	Propertie = "157 pm"/>
+    <AtomicProperties Key = "ElectronAffinity"	Propertie = "5.403"/>
+    <AtomicProperties Key = "Electronegativity"	Propertie = "Unknown"/>
+    <AtomicProperties Key = "RelativeAtomicMass"	Propertie = "[294]"/>
+    <PhysicalProperties Key = "StateAtTwentyC"	Propertie = "Solid"/>
+    <PhysicalProperties Key = "MeltingPoint_C"	Propertie = "50°C"/>
+    <PhysicalProperties Key = "MeltingPoint_F"	Propertie = "120°F"/>
+    <PhysicalProperties Key = "MeltingPoint_K"	Propertie = "320 K"/>
+    <PhysicalProperties Key = "BoilingPoint_C"	Propertie = "80±30°C"/>
+    <PhysicalProperties Key = "BoilingPoint_F"	Propertie = "170±50°F"/>
+    <PhysicalProperties Key = "BoilingPoint_K"	Propertie = "350±30 K"/>
+    <PhysicalProperties Key = "Density"	Propertie = "4.9–5.1"/>
+  </Element>
+</PeriodicElements>

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e987731bb67e6e449b866d48cf08de9, type: 3}
+  m_Name: ModuleUltimateSOInstaller
+  m_EditorClassIdentifier: 
+  _guiStandalonePrefabs:
+    GuiBackground: {fileID: 3727090475713699602, guid: e05a4ff9a92008049bacbc4b11cc4067,
+      type: 3}
+    GuiScrollbarLanguages: {fileID: 2183928730647598120, guid: e6e706f2027f0994286245185b3a503f,
+      type: 3}
+    GuiScrollbarLabels: {fileID: 4012940360473090656, guid: 7627ae85f667a21448546478e0dc0dea,
+      type: 3}
+    GuiScrollbarLayers: {fileID: 6683037840706639462, guid: f2912c7edf663384ea925d0e23d78c99,
+      type: 3}
+    GuiControlElements: {fileID: 3727090475713699602, guid: 9e11d284242bdbb4eb9496fa382f2336,
+      type: 3}
+    GuiColorPicker: {fileID: 2284679274885013494, guid: 102d2f35370f57d4cac6fd04e295b50b,
+      type: 3}
+    GuiTooltip: {fileID: 11134225162782740, guid: 53414daddba5a364292d5784b05c24d7,
+      type: 3}
+  _guiMobilePrefabs:
+    GuiBackground: {fileID: 3727090475713699602, guid: e05a4ff9a92008049bacbc4b11cc4067,
+      type: 3}
+    GuiScrollbarLanguages: {fileID: 2183928730647598120, guid: 470ae18f9de092f46803d3d4e1f34465,
+      type: 3}
+    GuiScrollbarLabels: {fileID: 4012940360473090656, guid: b6fcf3157554f6f429239b171f0c2626,
+      type: 3}
+    GuiScrollbarLayers: {fileID: 6683037840706639462, guid: d4b9dba6e64e2454ba371eedf1e7afc2,
+      type: 3}
+    GuiControlElements: {fileID: 3727090475713699602, guid: 35349e10966d8ce4c822c78fa4359c66,
+      type: 3}
+    GuiColorPicker: {fileID: 6480448132645211989, guid: 14a4712ea0a1b4345aaf895c945c98c9,
+      type: 3}
+    GuiTooltip: {fileID: 11134225162782740, guid: 53414daddba5a364292d5784b05c24d7,
+      type: 3}
+  _guiItemStandalonePrefabs:
+    ItemScrollbarLanguages: {fileID: 5988499160641492995, guid: 89862a39abd6b8c408a48b8a984b0061,
+      type: 3}
+    ItemScrollbarLabelsGroup: {fileID: 6265470120347970028, guid: 0711732b4abda6d4abfdb66ff75fa5ae,
+      type: 3}
+    ItemScrollbarLabelsLayer: {fileID: 8125276219204081212, guid: dd990a9f1f94f7648b1cd2b90faff540,
+      type: 3}
+    ItemScrollbarLabelsLabel: {fileID: 7857983909466977839, guid: 47cc8e4fb56c1f54c935e0a5b2674f63,
+      type: 3}
+    ItemScrollbarLayersGroup: {fileID: 6265470120347970028, guid: 2fd6c8b0c104735489288804537fa1ba,
+      type: 3}
+    ItemScrollbarLayersLayer: {fileID: 8125276219204081212, guid: b8f43a9ce601c9d4884800dcfaec7007,
+      type: 3}
+    ItemScrollbarLayersLabel: {fileID: 7857983909466977839, guid: 9080e24be3e5a4347bedcb6cbc3d9b07,
+      type: 3}
+    ItemSceneElementLabel: {fileID: 6839398169330163783, guid: d6ca8c7eb56da4b47b1c635edaf8bad8,
+      type: 3}
+    ItemSceneElementLabelCanvas: {fileID: 195423428746116294, guid: 362e5513d175cc24cad45ca3bccc9ddd,
+      type: 3}
+  _guiItemMobilePrefabs:
+    ItemScrollbarLanguages: {fileID: 7761510556589303230, guid: 0d5ea8062bcd7f746ba37d29c04db10c,
+      type: 3}
+    ItemScrollbarLabelsGroup: {fileID: 6265470120347970028, guid: f070cd5247aef294c8240a694771c252,
+      type: 3}
+    ItemScrollbarLabelsLayer: {fileID: 8125276219204081212, guid: 271aecf396bb05b40beac012db1a7713,
+      type: 3}
+    ItemScrollbarLabelsLabel: {fileID: 7857983909466977839, guid: d50b37125f4ceef448f7fb02ad7815c2,
+      type: 3}
+    ItemScrollbarLayersGroup: {fileID: 6265470120347970028, guid: ed66380feef64b647b3312fcfb32a450,
+      type: 3}
+    ItemScrollbarLayersLayer: {fileID: 8125276219204081212, guid: 12c2cf82c29795e4fbdce7aaaa2a88f3,
+      type: 3}
+    ItemScrollbarLayersLabel: {fileID: 7857983909466977839, guid: 7bfa44ff5e56f314fa8a9865afb3f793,
+      type: 3}
+    ItemSceneElementLabel: {fileID: 6839398169330163783, guid: d6ca8c7eb56da4b47b1c635edaf8bad8,
+      type: 3}
+    ItemSceneElementLabelCanvas: {fileID: 195423428746116294, guid: 362e5513d175cc24cad45ca3bccc9ddd,
+      type: 3}

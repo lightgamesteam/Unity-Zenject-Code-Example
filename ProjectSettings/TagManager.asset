@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 2DVideoCamera
+  - 3DModelCamera
+  - ModuleCamera
+  - electrodes
+  - placement
+  - Axis
+  - eclipseTrigger
+  - rowTypeText
+  - rowLongitudeText
+  - rowIndexText
+  - rowDateText
+  - rowWidthText
+  - rowLatitudeText
+  - rowDurationText
+  - rowEclipseText
+  - EclipseScrollView
+  - data
+  - Moon
+  - EarthAndMoon
+  - SolarSystem
+  - controller
+  - Sun
+  - EarthPositionChooserButton
+  - pin
+  - AutomaticOrMechanicalModeToggle
+  - Earth
+  - PinDarkSideChecker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - RenderLayer0
+  - RenderLayer1
+  - RenderLayer2
+  - RenderLayer3
+  - Earth_layer
+  - Moon_layer
+  - Sun_layer
+  - UI_Overlay
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

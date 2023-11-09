@@ -1,0 +1,499 @@
+<Data>
+  <English>
+    <EN Key = "AtomicData"	Word = "Atomic Data"/>
+    <EN Key = "PhysicalProperties"	Word = "Physical Properties"/>
+    <EN Key = "AtomicNumber"	Word = "Atomic Number"/>
+    <EN Key = "AtomicNumberTitle"	Word = "Atomic [[br]]Number"/>
+    <EN Key = "ElectronConfiguration"	Word = "Electron configuration"/>
+    <EN Key = "AtomicRadius"	Word = "Atomic radius, non-bonded"/>
+    <EN Key = "CovalentRadius"	Word = "Covalent radius"/>
+    <EN Key = "ElectronAffinity"	Word = "Electron affinity (kJ mol-1)"/>
+    <EN Key = "Electronegativity"	Word = "Electronegativity"/>
+    <EN Key = "RelativeAtomicMass"	Word = "Relative atomic mass"/>
+    <EN Key = "AtomicMass"	Word = "Atomic Mass"/>
+    <EN Key = "StateAtTwentyC"	Word = "State at 20 deg. °C"/>
+    <EN Key = "MeltingPoint_C"	Word = "Melting point °C"/>
+    <EN Key = "MeltingPoint_F"	Word = "Melting point °F"/>
+    <EN Key = "MeltingPoint_K"	Word = "Melting point K"/>
+    <EN Key = "BoilingPoint_C"	Word = "Boiling point °C"/>
+    <EN Key = "BoilingPoint_F"	Word = "Boiling point °F"/>
+    <EN Key = "BoilingPoint_K"	Word = "Boiling point K"/>
+    <EN Key = "BoilingPoint"	Word = "Boiling [[br]]Point"/>
+    <EN Key = "Density"	Word = "Density (g cm-3)"/>
+    <EN Key = "Explanation"	Word = "Boiling points in °C [[br]]SP = Triple Point [[br]]Pressure listed if not atm [[br]]Allotrope listed if more than one allotrop"/>
+    <EN Key = "Symbol"	Word = "Symbol"/>
+    <EN Key = "Title"	Word = "Periodic Table of Elements"/>
+
+    <EN Key = "NoDataForThisItem"	Word = "Description for this element is missing..."/>
+    <EN Key = "ActinideSeries"	Word = "Actinide [[br]]Series"/>
+    <EN Key = "LanthanideSeries"	Word = "Lanthanide [[br]]Series"/>
+    <EN Key = "Actinide"	Word = "Actinide"/>
+    <EN Key = "Lanthanide"	Word = "Lanthanide"/>
+    <EN Key = "Name"	Word = "Name"/>
+    <EN Key = "Gas"	Word = "Gas"/>
+    <EN Key = "Solid"	Word = "Solid"/>
+    <EN Key = "Unknown"	Word = "Unknown"/>
+    <EN Key = "Liquid"	Word = "Liquid"/>
+    <EN Key = "Not Stable"	Word = "Not Stable"/>
+    
+    <EN Key = "Hydrogen"	Word = "Hydrogen"/>
+    <EN Key = "Lithium"	Word = "Lithium"/>
+    <EN Key = "Beryllium"	Word = "Beryllium"/>
+    <EN Key = "Sodium"	Word = "Sodium"/>
+    <EN Key = "Magnesium"	Word = "Magnesium"/>
+    <EN Key = "Potassium"	Word = "Potassium"/>
+    <EN Key = "Calcium"	Word = "Calcium"/>
+    <EN Key = "Scandium"	Word = "Scandium"/>
+    <EN Key = "Titanium"	Word = "Titanium"/>
+    <EN Key = "Vanadium"	Word = "Vanadium"/>
+    <EN Key = "Chromium"	Word = "Chromium"/>
+    <EN Key = "Manganese"	Word = "Manganese"/>
+    <EN Key = "Iron"	Word = "Iron"/>
+    <EN Key = "Cobalt"	Word = "Cobalt"/>
+    <EN Key = "Nickel"	Word = "Nickel"/>
+    <EN Key = "Copper"	Word = "Copper"/>
+    <EN Key = "Zink"	Word = "Zink"/>
+    <EN Key = "Gallium"	Word = "Gallium"/>
+    <EN Key = "Germanium"	Word = "Germanium"/>
+    <EN Key = "Arsenic"	Word = "Arsenic"/>
+    <EN Key = "Selenium"	Word = "Selenium"/>
+    <EN Key = "Bromine"	Word = "Bromine"/>
+    <EN Key = "Krypton"	Word = "Krypton"/>
+    <EN Key = "Argon"	Word = "Argon"/>
+    <EN Key = "Chlorine"	Word = "Chlorine"/>
+    <EN Key = "Sulfur"	Word = "Sulfur"/>
+    <EN Key = "Phosphorus"	Word = "Phosphorus"/>
+    <EN Key = "Silicon"	Word = "Silicon"/>
+    <EN Key = "Aluminium"	Word = "Aluminium"/>
+    <EN Key = "Boron"	Word = "Boron"/>
+    <EN Key = "Carbon"	Word = "Carbon"/>
+    <EN Key = "Nitrogen"	Word = "Nitrogen"/>
+    <EN Key = "Oxygen"	Word = "Oxygen"/>
+    <EN Key = "Fluorine"	Word = "Fluorine"/>
+    <EN Key = "Neon"	Word = "Neon"/>
+    <EN Key = "Helium"	Word = "Helium"/>
+    <EN Key = "Xenon"	Word = "Xenon"/>
+    <EN Key = "Iodine"	Word = "Iodine"/>
+    <EN Key = "Tellurium"	Word = "Tellurium"/>
+    <EN Key = "Antimony"	Word = "Antimony"/>
+    <EN Key = "Tin"	Word = "Tin"/>
+    <EN Key = "Indium"	Word = "Indium"/>
+    <EN Key = "Cadmium"	Word = "Cadmium"/>
+    <EN Key = "Silver"	Word = "Silver"/>
+    <EN Key = "Palladium"	Word = "Palladium"/>
+    <EN Key = "Rhodium"	Word = "Rhodium"/>
+    <EN Key = "Ruthenium"	Word = "Ruthenium"/>
+    <EN Key = "Technetium"	Word = "Technetium"/>
+    <EN Key = "Molybdenum"	Word = "Molybdenum"/>
+    <EN Key = "Niobium"	Word = "Niobium"/>
+    <EN Key = "Zirconium"	Word = "Zirconium"/>
+    <EN Key = "Yttrium"	Word = "Yttrium"/>
+    <EN Key = "Strontium"	Word = "Strontium"/>
+    <EN Key = "Rubidium"	Word = "Rubidium"/>
+    <EN Key = "Cesium"	Word = "Cesium"/>
+    <EN Key = "Barium"	Word = "Barium"/>
+    <EN Key = "Hafnium"	Word = "Hafnium"/>
+    <EN Key = "Tantalum"	Word = "Tantalum"/>
+    <EN Key = "Tungsten"	Word = "Tungsten"/>
+    <EN Key = "Rhenium"	Word = "Rhenium"/>
+    <EN Key = "Osmium"	Word = "Osmium"/>
+    <EN Key = "Iridium"	Word = "Iridium"/>
+    <EN Key = "Platinum"	Word = "Platinum"/>
+    <EN Key = "Gold"	Word = "Gold"/>
+    <EN Key = "Mercury"	Word = "Mercury"/>
+    <EN Key = "Thallium"	Word = "Thallium"/>
+    <EN Key = "Lead"	Word = "Lead"/>
+    <EN Key = "Bismuth"	Word = "Bismuth"/>
+    <EN Key = "Polonium"	Word = "Polonium"/>
+    <EN Key = "Astatine"	Word = "Astatine"/>
+    <EN Key = "Radon"	Word = "Radon"/>
+    <EN Key = "Ununoctium"	Word = "Ununoctium"/>
+    <EN Key = "Ununseptium"	Word = "Ununseptium"/>
+    <EN Key = "Livermorium"	Word = "Livermorium"/>
+    <EN Key = "Ununpentium"	Word = "Ununpentium"/>
+    <EN Key = "Flerovium"	Word = "Flerovium"/>
+    <EN Key = "Ununtrium"	Word = "Ununtrium"/>
+    <EN Key = "Copernicium"	Word = "Copernicium"/>
+    <EN Key = "Roentgenium"	Word = "Roentgenium"/>
+    <EN Key = "Darmstadtium"	Word = "Darmstadtium"/>
+    <EN Key = "Meitnerium"	Word = "Meitnerium"/>
+    <EN Key = "Hassium"	Word = "Hassium"/>
+    <EN Key = "Bohrium"	Word = "Bohrium"/>
+    <EN Key = "Seaborgium"	Word = "Seaborgium"/>
+    <EN Key = "Dubnium"	Word = "Dubnium"/>
+    <EN Key = "Rutherfordium"	Word = "Rutherfordium"/>
+    <EN Key = "Radium"	Word = "Radium"/>
+    <EN Key = "Francium"	Word = "Francium"/>
+    <EN Key = "Lanthanum"	Word = "Lanthanum"/>
+    <EN Key = "Cerium"	Word = "Cerium"/>
+    <EN Key = "Praseodymium"	Word = "Praseodymium"/>
+    <EN Key = "Neodymium"	Word = "Neodymium"/>
+    <EN Key = "Promethium"	Word = "Promethium"/>
+    <EN Key = "Samarium"	Word = "Samarium"/>
+    <EN Key = "Europium"	Word = "Europium"/>
+    <EN Key = "Gadolinium"	Word = "Gadolinium"/>
+    <EN Key = "Terbium"	Word = "Terbium"/>
+    <EN Key = "Dysprosium"	Word = "Dysprosium"/>
+    <EN Key = "Holmium"	Word = "Holmium"/>
+    <EN Key = "Erbium"	Word = "Erbium"/>
+    <EN Key = "Thulium"	Word = "Thulium"/>
+    <EN Key = "Ytterbium"	Word = "Ytterbium"/>
+    <EN Key = "Lutetium"	Word = "Lutetium"/>
+    <EN Key = "Actinium"	Word = "Actinium"/>
+    <EN Key = "Thorium"	Word = "Thorium"/>
+    <EN Key = "Protactinium"	Word = "Protactinium"/>
+    <EN Key = "Uranium"	Word = "Uranium"/>
+    <EN Key = "Neptunium"	Word = "Neptunium"/>
+    <EN Key = "Plutonium"	Word = "Plutonium"/>
+    <EN Key = "Americium"	Word = "Americium"/>
+    <EN Key = "Curium"	Word = "Curium"/>
+    <EN Key = "Berkelium"	Word = "Berkelium"/>
+    <EN Key = "Californium"	Word = "Californium"/>
+    <EN Key = "Einsteinium"	Word = "Einsteinium"/>
+    <EN Key = "Fermium"	Word = "Fermium"/>
+    <EN Key = "Mendelivium"	Word = "Mendelivium"/>
+    <EN Key = "Nobelium"	Word = "Nobelium"/>
+    <EN Key = "Lawrencium"	Word = "Lawrencium"/>
+    
+    <EN Key = "AlkaliMetal"	Word = "Alkali metal"/>
+    <EN Key = "AlkalineMetal"	Word = "Alkaline metal"/>
+    <EN Key = "TransitionMetal"	Word = "Transition metal"/>
+    <EN Key = "BasicMetal"	Word = "Basic metal"/>
+    <EN Key = "Semimetal"	Word = "Semimetal"/>
+    <EN Key = "Nonmetal"	Word = "Non metal"/>
+    <EN Key = "Halogen"	Word = "Halogen"/>
+    <EN Key = "NobleGas"	Word = "Noble gas"/>
+  </English>
+
+  <Norwegian_NB>
+    <NO Key = "AtomicData"	Word = "Atomdata"/>
+    <NO Key = "PhysicalProperties"	Word = "Fysiske egenskaper"/>
+    <NO Key = "AtomicNumber"	Word = "Atomnummer"/>
+    <NO Key = "AtomicNumberTitle"	Word = "Atom-[[br]]nummer"/>
+    <NO Key = "ElectronConfiguration"	Word = "Elektronkonfigurasjon"/>
+    <NO Key = "AtomicRadius"	Word = "Atomisk radius, ikke-bundet"/>
+    <NO Key = "CovalentRadius"	Word = "Kovalent radius"/>
+    <NO Key = "ElectronAffinity"	Word = "Elektronaffinitet (kJ mol-1)"/>
+    <NO Key = "Electronegativity"	Word = "Elektronnegativitet"/>
+    <NO Key = "RelativeAtomicMass"	Word = "Relativ atomisk masse"/>
+    <NO Key = "AtomicMass"	Word = "Atommasse"/>
+    <NO Key = "StateAtTwentyC"	Word = "Tilstand ved 20 grader. °C"/>
+    <NO Key = "MeltingPoint_C"	Word = "Smeltepunkt °C"/>
+    <NO Key = "MeltingPoint_F"	Word = "Smeltepunkt °F"/>
+    <NO Key = "MeltingPoint_K"	Word = "Smeltepunkt K"/>
+    <NO Key = "BoilingPoint_C"	Word = "Kokepunkt °C"/>
+    <NO Key = "BoilingPoint_F"	Word = "Kokepunkt °F"/>
+    <NO Key = "BoilingPoint_K"	Word = "Kokepunkt K"/>
+    <NO Key = "BoilingPoint"	Word = "Koke-[[br]]punkt"/>
+    <NO Key = "Density"	Word = "Tettleik (g cm-3)"/>
+    <NO Key = "Explanation"	Word = "Kokepunkt i °C [[br]]SP = Trippelpunkt [[br]]Trykk oppført hvis ikke atm [[br]]Allotrope listet hvis det er mer enn én allotrope"/>
+    <NO Key = "Symbol"	Word = "Symbol"/>
+    <NO Key = "Title"	Word = "Periodesystemet"/>
+
+    <NO Key = "NoDataForThisItem"	Word = "Beskrivelse av dette elementet manglar..."/>
+    <NO Key = "ActinideSeries"	Word = "Aktinoider"/>
+    <NO Key = "LanthanideSeries"	Word = "Lantanoider"/>
+    <NO Key = "Actinide"	Word = "Aktinoider"/>
+    <NO Key = "Lanthanide"	Word = "Lantanoider"/>
+    <NO Key = "Name"	Word = "Navn"/>
+    <NO Key = "Gas"	Word = "Gass"/>
+    <NO Key = "Solid"	Word = "Fast"/>
+    <NO Key = "Unknown"	Word = "Ukjent"/>
+    <NO Key = "Liquid"	Word = "Flytende"/>
+    <NO Key = "Not Stable"	Word = "Ikke Stabil"/>
+
+    <NO Key = "Hydrogen"	Word = "Hydrogen"/>
+    <NO Key = "Lithium"	Word = "Litium"/>
+    <NO Key = "Beryllium"	Word = "Beryllium"/>
+    <NO Key = "Sodium"	Word = "Natrium"/>
+    <NO Key = "Magnesium"	Word = "Magnesium"/>
+    <NO Key = "Potassium"	Word = "Kalium"/>
+    <NO Key = "Calcium"	Word = "Kalsium"/>
+    <NO Key = "Scandium"	Word = "Scandium"/>
+    <NO Key = "Titanium"	Word = "Titan"/>
+    <NO Key = "Vanadium"	Word = "Vanadium"/>
+    <NO Key = "Chromium"	Word = "Krom"/>
+    <NO Key = "Manganese"	Word = "Mangan"/>
+    <NO Key = "Iron"	Word = "Jern"/>
+    <NO Key = "Cobalt"	Word = "Kobolt"/>
+    <NO Key = "Nickel"	Word = "Nikkel"/>
+    <NO Key = "Copper"	Word = "Kobber"/>
+    <NO Key = "Zink"	Word = "Sink"/>
+    <NO Key = "Gallium"	Word = "Gallium"/>
+    <NO Key = "Germanium"	Word = "Germanium"/>
+    <NO Key = "Arsenic"	Word = "Arsen"/>
+    <NO Key = "Selenium"	Word = "Selen"/>
+    <NO Key = "Bromine"	Word = "Brom"/>
+    <NO Key = "Krypton"	Word = "Krypton"/>
+    <NO Key = "Argon"	Word = "Argon"/>
+    <NO Key = "Chlorine"	Word = "Klor"/>
+    <NO Key = "Sulfur"	Word = "Svovel"/>
+    <NO Key = "Phosphorus"	Word = "Fosfor"/>
+    <NO Key = "Silicon"	Word = "Silisium"/>
+    <NO Key = "Aluminium"	Word = "Aluminium"/>
+    <NO Key = "Boron"	Word = "Bor"/>
+    <NO Key = "Carbon"	Word = "Karbon"/>
+    <NO Key = "Nitrogen"	Word = "Nitrogen"/>
+    <NO Key = "Oxygen"	Word = "Oksygen"/>
+    <NO Key = "Fluorine"	Word = "Fluor"/>
+    <NO Key = "Neon"	Word = "Neon"/>
+    <NO Key = "Helium"	Word = "Helium"/>
+    <NO Key = "Xenon"	Word = "Xenon"/>
+    <NO Key = "Iodine"	Word = "Jod"/>
+    <NO Key = "Tellurium"	Word = "Tellur"/>
+    <NO Key = "Antimony"	Word = "Antimon"/>
+    <NO Key = "Tin"	Word = "Tinn"/>
+    <NO Key = "Indium"	Word = "Indium"/>
+    <NO Key = "Cadmium"	Word = "Kadmium"/>
+    <NO Key = "Silver"	Word = "Sølv"/>
+    <NO Key = "Palladium"	Word = "Palladium"/>
+    <NO Key = "Rhodium"	Word = "Rhodium"/>
+    <NO Key = "Ruthenium"	Word = "Ruthenium"/>
+    <NO Key = "Technetium"	Word = "Technetium"/>
+    <NO Key = "Molybdenum"	Word = "Molybden"/>
+    <NO Key = "Niobium"	Word = "Niob"/>
+    <NO Key = "Zirconium"	Word = "Zirconium"/>
+    <NO Key = "Yttrium"	Word = "Yttrium"/>
+    <NO Key = "Strontium"	Word = "Strontium"/>
+    <NO Key = "Rubidium"	Word = "Rubidium"/>
+    <NO Key = "Cesium"	Word = "Cesium"/>
+    <NO Key = "Barium"	Word = "Barium"/>
+    <NO Key = "Hafnium"	Word = "Hafnium"/>
+    <NO Key = "Tantalum"	Word = "Tantal"/>
+    <NO Key = "Tungsten"	Word = "Wolfram"/>
+    <NO Key = "Rhenium"	Word = "Rhenium"/>
+    <NO Key = "Osmium"	Word = "Osmium"/>
+    <NO Key = "Iridium"	Word = "Iridium"/>
+    <NO Key = "Platinum"	Word = "Platina"/>
+    <NO Key = "Gold"	Word = "Gull"/>
+    <NO Key = "Mercury"	Word = "Kvikksølv"/>
+    <NO Key = "Thallium"	Word = "Thallium"/>
+    <NO Key = "Lead"	Word = "Bly"/>
+    <NO Key = "Bismuth"	Word = "Vismut"/>
+    <NO Key = "Polonium"	Word = "Polonium"/>
+    <NO Key = "Astatine"	Word = "Astat"/>
+    <NO Key = "Radon"	Word = "Radon"/>
+    <NO Key = "Ununoctium"	Word = "Oganesson"/>
+    <NO Key = "Ununseptium"	Word = "Tennes"/>
+    <NO Key = "Livermorium"	Word = "Livermorium"/>
+    <NO Key = "Ununpentium"	Word = "Moscovium"/>
+    <NO Key = "Flerovium"	Word = "Flerovium"/>
+    <NO Key = "Ununtrium"	Word = "Nihonium"/>
+    <NO Key = "Copernicium"	Word = "Copernicium"/>
+    <NO Key = "Roentgenium"	Word = "Røntgenium"/>
+    <NO Key = "Darmstadtium"	Word = "Darmstadtium"/>
+    <NO Key = "Meitnerium"	Word = "Meitnerium"/>
+    <NO Key = "Hassium"	Word = "Hassium"/>
+    <NO Key = "Bohrium"	Word = "Bohrium"/>
+    <NO Key = "Seaborgium"	Word = "Seaborgium"/>
+    <NO Key = "Dubnium"	Word = "Dubnium"/>
+    <NO Key = "Rutherfordium"	Word = "Rutherfordium"/>
+    <NO Key = "Radium"	Word = "Radium"/>
+    <NO Key = "Francium"	Word = "Francium"/>
+    <NO Key = "Lanthanum"	Word = "Lantan"/>
+    <NO Key = "Cerium"	Word = "Cerium"/>
+    <NO Key = "Praseodymium"	Word = "Praseodym"/>
+    <NO Key = "Neodymium"	Word = "Neodym"/>
+    <NO Key = "Promethium"	Word = "Promethium"/>
+    <NO Key = "Samarium"	Word = "Samarium"/>
+    <NO Key = "Europium"	Word = "Europium"/>
+    <NO Key = "Gadolinium"	Word = "Gadolinium"/>
+    <NO Key = "Terbium"	Word = "Terbium"/>
+    <NO Key = "Dysprosium"	Word = "Dysprosium"/>
+    <NO Key = "Holmium"	Word = "Holmium"/>
+    <NO Key = "Erbium"	Word = "Erbium"/>
+    <NO Key = "Thulium"	Word = "Thulium"/>
+    <NO Key = "Ytterbium"	Word = "Ytterbium"/>
+    <NO Key = "Lutetium"	Word = "Lutetium"/>
+    <NO Key = "Actinium"	Word = "Actinium"/>
+    <NO Key = "Thorium"	Word = "Thorium"/>
+    <NO Key = "Protactinium"	Word = "Protactinium"/>
+    <NO Key = "Uranium"	Word = "Uran"/>
+    <NO Key = "Neptunium"	Word = "Neptunium"/>
+    <NO Key = "Plutonium"	Word = "Plutonium"/>
+    <NO Key = "Americium"	Word = "Americium"/>
+    <NO Key = "Curium"	Word = "Curium"/>
+    <NO Key = "Berkelium"	Word = "Berkelium"/>
+    <NO Key = "Californium"	Word = "Californium"/>
+    <NO Key = "Einsteinium"	Word = "Einsteinium"/>
+    <NO Key = "Fermium"	Word = "Fermium"/>
+    <NO Key = "Mendelivium"	Word = "Mendelivium"/>
+    <NO Key = "Nobelium"	Word = "Nobelium"/>
+    <NO Key = "Lawrencium"	Word = "Lawrencium"/>
+
+    <NO Key = "AlkaliMetal"	Word = "Alkalimetall"/>
+    <NO Key = "AlkalineMetal"	Word = "Jordalkalimetaller"/>
+    <NO Key = "TransitionMetal"	Word = "Transisjonsmetaller"/>
+    <NO Key = "BasicMetal"	Word = "Metaller"/>
+    <NO Key = "Semimetal"	Word = "Halvmetaller"/>
+    <NO Key = "Nonmetal"	Word = "Ikke-metaller"/>
+    <NO Key = "Halogen"	Word = "Halogener"/>
+    <NO Key = "NobleGas"	Word = "Edelgasser"/>
+  </Norwegian_NB>
+
+  <Norwegian_NN>
+    <NO Key = "AtomicData"	Word = "Atomdata"/>
+    <NO Key = "PhysicalProperties"	Word = "Fysiske egenskaper"/>
+    <NO Key = "AtomicNumber"	Word = "Atomnummer"/>
+    <NO Key = "AtomicNumberTitle"	Word = "Atom-[[br]]nummer"/>
+    <NO Key = "ElectronConfiguration"	Word = "Elektronkonfigurasjon"/>
+    <NO Key = "AtomicRadius"	Word = "Atomisk radius, ikke-bundet"/>
+    <NO Key = "CovalentRadius"	Word = "Kovalent radius"/>
+    <NO Key = "ElectronAffinity"	Word = "Elektronaffinitet (kJ mol-1)"/>
+    <NO Key = "Electronegativity"	Word = "Elektronnegativitet"/>
+    <NO Key = "RelativeAtomicMass"	Word = "Relativ atomisk masse"/>
+    <NO Key = "AtomicMass"	Word = "Atommasse"/>
+    <NO Key = "StateAtTwentyC"	Word = "Tilstand ved 20 grader. °C"/>
+    <NO Key = "MeltingPoint_C"	Word = "Smeltepunkt °C"/>
+    <NO Key = "MeltingPoint_F"	Word = "Smeltepunkt °F"/>
+    <NO Key = "MeltingPoint_K"	Word = "Smeltepunkt K"/>
+    <NO Key = "BoilingPoint_C"	Word = "Kokepunkt °C"/>
+    <NO Key = "BoilingPoint_F"	Word = "Kokepunkt °F"/>
+    <NO Key = "BoilingPoint_K"	Word = "Kokepunkt K"/>
+    <NO Key = "BoilingPoint"	Word = "Koke-[[br]]punkt"/>
+    <NO Key = "Density"	Word = "Tettleik (g cm-3)"/>
+    <NO Key = "Explanation"	Word = "Kokepunkt i °C [[br]]SP = Trippelpunkt [[br]]Trykk oppført om ikkje atm [[br]]Allotrope lista om det er meir enn én allotrope"/>
+    <NO Key = "Symbol"	Word = "Symbol"/>
+    <NO Key = "Title"	Word = "Periodesystemet"/>
+
+    <NO Key = "NoDataForThisItem"	Word = "Beskrivelse av dette elementet manglar..."/>
+    <NO Key = "ActinideSeries"	Word = "Aktinoider"/>
+    <NO Key = "LanthanideSeries"	Word = "Lantanoider"/>
+    <NO Key = "Actinide"	Word = "Aktinoider"/>
+    <NO Key = "Lanthanide"	Word = "Lantanoider"/>
+    <NO Key = "Name"	Word = "Namn"/>
+    <NO Key = "Gas"	Word = "Gass"/>
+    <NO Key = "Solid"	Word = "Fast"/>
+    <NO Key = "Unknown"	Word = "Ukjend"/>
+    <NO Key = "Liquid"	Word = "Flytande"/>
+    <NO Key = "Not Stable"	Word = "Ikkje Stabil"/>
+
+    <NO Key = "Hydrogen"	Word = "Hydrogen"/>
+    <NO Key = "Lithium"	Word = "Litium"/>
+    <NO Key = "Beryllium"	Word = "Beryllium"/>
+    <NO Key = "Sodium"	Word = "Natrium"/>
+    <NO Key = "Magnesium"	Word = "Magnesium"/>
+    <NO Key = "Potassium"	Word = "Kalium"/>
+    <NO Key = "Calcium"	Word = "Kalsium"/>
+    <NO Key = "Scandium"	Word = "Scandium"/>
+    <NO Key = "Titanium"	Word = "Titan"/>
+    <NO Key = "Vanadium"	Word = "Vanadium"/>
+    <NO Key = "Chromium"	Word = "Krom"/>
+    <NO Key = "Manganese"	Word = "Mangan"/>
+    <NO Key = "Iron"	Word = "Jern"/>
+    <NO Key = "Cobalt"	Word = "Kobolt"/>
+    <NO Key = "Nickel"	Word = "Nikkel"/>
+    <NO Key = "Copper"	Word = "Kopar"/>
+    <NO Key = "Zink"	Word = "Sink"/>
+    <NO Key = "Gallium"	Word = "Gallium"/>
+    <NO Key = "Germanium"	Word = "Germanium"/>
+    <NO Key = "Arsenic"	Word = "Arsen"/>
+    <NO Key = "Selenium"	Word = "Selen"/>
+    <NO Key = "Bromine"	Word = "Brom"/>
+    <NO Key = "Krypton"	Word = "Krypton"/>
+    <NO Key = "Argon"	Word = "Argon"/>
+    <NO Key = "Chlorine"	Word = "Klor"/>
+    <NO Key = "Sulfur"	Word = "Svovel"/>
+    <NO Key = "Phosphorus"	Word = "Fosfor"/>
+    <NO Key = "Silicon"	Word = "Silisium"/>
+    <NO Key = "Aluminium"	Word = "Aluminium"/>
+    <NO Key = "Boron"	Word = "Bor"/>
+    <NO Key = "Carbon"	Word = "Karbon"/>
+    <NO Key = "Nitrogen"	Word = "Nitrogen"/>
+    <NO Key = "Oxygen"	Word = "Oksygen"/>
+    <NO Key = "Fluorine"	Word = "Fluor"/>
+    <NO Key = "Neon"	Word = "Neon"/>
+    <NO Key = "Helium"	Word = "Helium"/>
+    <NO Key = "Xenon"	Word = "Xenon"/>
+    <NO Key = "Iodine"	Word = "Jod"/>
+    <NO Key = "Tellurium"	Word = "Tellur"/>
+    <NO Key = "Antimony"	Word = "Antimon"/>
+    <NO Key = "Tin"	Word = "Tinn"/>
+    <NO Key = "Indium"	Word = "Indium"/>
+    <NO Key = "Cadmium"	Word = "Kadmium"/>
+    <NO Key = "Silver"	Word = "Sølv"/>
+    <NO Key = "Palladium"	Word = "Palladium"/>
+    <NO Key = "Rhodium"	Word = "Rhodium"/>
+    <NO Key = "Ruthenium"	Word = "Ruthenium"/>
+    <NO Key = "Technetium"	Word = "Technetium"/>
+    <NO Key = "Molybdenum"	Word = "Molybden"/>
+    <NO Key = "Niobium"	Word = "Niob"/>
+    <NO Key = "Zirconium"	Word = "Zirconium"/>
+    <NO Key = "Yttrium"	Word = "Yttrium"/>
+    <NO Key = "Strontium"	Word = "Strontium"/>
+    <NO Key = "Rubidium"	Word = "Rubidium"/>
+    <NO Key = "Cesium"	Word = "Cesium"/>
+    <NO Key = "Barium"	Word = "Barium"/>
+    <NO Key = "Hafnium"	Word = "Hafnium"/>
+    <NO Key = "Tantalum"	Word = "Tantal"/>
+    <NO Key = "Tungsten"	Word = "Wolfram"/>
+    <NO Key = "Rhenium"	Word = "Rhenium"/>
+    <NO Key = "Osmium"	Word = "Osmium"/>
+    <NO Key = "Iridium"	Word = "Iridium"/>
+    <NO Key = "Platinum"	Word = "Platina"/>
+    <NO Key = "Gold"	Word = "Gull"/>
+    <NO Key = "Mercury"	Word = "Kvikksølv"/>
+    <NO Key = "Thallium"	Word = "Thallium"/>
+    <NO Key = "Lead"	Word = "Bly"/>
+    <NO Key = "Bismuth"	Word = "Vismut"/>
+    <NO Key = "Polonium"	Word = "Polonium"/>
+    <NO Key = "Astatine"	Word = "Astat"/>
+    <NO Key = "Radon"	Word = "Radon"/>
+    <NO Key = "Ununoctium"	Word = "Oganesson"/>
+    <NO Key = "Ununseptium"	Word = "Tennes"/>
+    <NO Key = "Livermorium"	Word = "Livermorium"/>
+    <NO Key = "Ununpentium"	Word = "Moscovium"/>
+    <NO Key = "Flerovium"	Word = "Flerovium"/>
+    <NO Key = "Ununtrium"	Word = "Nihonium"/>
+    <NO Key = "Copernicium"	Word = "Copernicium"/>
+    <NO Key = "Roentgenium"	Word = "Røntgenium"/>
+    <NO Key = "Darmstadtium"	Word = "Darmstadtium"/>
+    <NO Key = "Meitnerium"	Word = "Meitnerium"/>
+    <NO Key = "Hassium"	Word = "Hassium"/>
+    <NO Key = "Bohrium"	Word = "Bohrium"/>
+    <NO Key = "Seaborgium"	Word = "Seaborgium"/>
+    <NO Key = "Dubnium"	Word = "Dubnium"/>
+    <NO Key = "Rutherfordium"	Word = "Rutherfordium"/>
+    <NO Key = "Radium"	Word = "Radium"/>
+    <NO Key = "Francium"	Word = "Francium"/>
+    <NO Key = "Lanthanum"	Word = "Lantan"/>
+    <NO Key = "Cerium"	Word = "Cerium"/>
+    <NO Key = "Praseodymium"	Word = "Praseodym"/>
+    <NO Key = "Neodymium"	Word = "Neodym"/>
+    <NO Key = "Promethium"	Word = "Promethium"/>
+    <NO Key = "Samarium"	Word = "Samarium"/>
+    <NO Key = "Europium"	Word = "Europium"/>
+    <NO Key = "Gadolinium"	Word = "Gadolinium"/>
+    <NO Key = "Terbium"	Word = "Terbium"/>
+    <NO Key = "Dysprosium"	Word = "Dysprosium"/>
+    <NO Key = "Holmium"	Word = "Holmium"/>
+    <NO Key = "Erbium"	Word = "Erbium"/>
+    <NO Key = "Thulium"	Word = "Thulium"/>
+    <NO Key = "Ytterbium"	Word = "Ytterbium"/>
+    <NO Key = "Lutetium"	Word = "Lutetium"/>
+    <NO Key = "Actinium"	Word = "Actinium"/>
+    <NO Key = "Thorium"	Word = "Thorium"/>
+    <NO Key = "Protactinium"	Word = "Protactinium"/>
+    <NO Key = "Uranium"	Word = "Uran"/>
+    <NO Key = "Neptunium"	Word = "Neptunium"/>
+    <NO Key = "Plutonium"	Word = "Plutonium"/>
+    <NO Key = "Americium"	Word = "Americium"/>
+    <NO Key = "Curium"	Word = "Curium"/>
+    <NO Key = "Berkelium"	Word = "Berkelium"/>
+    <NO Key = "Californium"	Word = "Californium"/>
+    <NO Key = "Einsteinium"	Word = "Einsteinium"/>
+    <NO Key = "Fermium"	Word = "Fermium"/>
+    <NO Key = "Mendelivium"	Word = "Mendelivium"/>
+    <NO Key = "Nobelium"	Word = "Nobelium"/>
+    <NO Key = "Lawrencium"	Word = "Lawrencium"/>
+
+    <NO Key = "AlkaliMetal"	Word = "Alkalimetall"/>
+    <NO Key = "AlkalineMetal"	Word = "Jordalkalimetall"/>
+    <NO Key = "TransitionMetal"	Word = "Transisjonsmetall"/>
+    <NO Key = "BasicMetal"	Word = "Metall"/>
+    <NO Key = "Semimetal"	Word = "Halvmetallar"/>
+    <NO Key = "Nonmetal"	Word = "Ikkje-metallar"/>
+    <NO Key = "Halogen"	Word = "Halogen"/>
+    <NO Key = "NobleGas"	Word = "Edelgassar"/>
+  </Norwegian_NN>
+</Data>
